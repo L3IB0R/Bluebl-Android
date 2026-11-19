@@ -21,6 +21,11 @@ gradle assembleDebug
 gradle :app:testDebugUnitTest
 ```
 
+## Agradecimientos
+
+- **[bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) y **[bitchat-android](https://github.com/permissionlesstech/bitchat-android)** (Kotlin) — **inspiración** de este proyecto: el concepto de chat en malla por Bluetooth Low Energy sin internet, la estética de canal IRC (`#general`, `/nick`, `/me`, `/who`…), las cabeceras de paquete y los UUIDs de servicio/característica con los que BlueBl busca ser compatible por el aire. BlueBl es una reimplementación independiente, **no** un fork: no comparte código con ellos.
+- **[apkExtractor](https://github.com/axxapy/apkExtractor)** (axxapy, MIT) — herramienta usada para **extraer el APK desde el dispositivo** y publicarlo con su nombre en los [releases](https://github.com/L3IB0R/Bluebl-Android/releases).
+
 ## Licencia
 
 MIT
