@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlueBl</string>
+    <string name="node_service_channel_name">Malla Bluetooth activa</string>
+    <string name="node_service_channel_desc">Mantiene la búsqueda, anuncio y reenvío Bluetooth LE activos sin cortes</string>
+    <string name="node_service_notification_title">BlueBl · Malla Bluetooth activa</string>
+    <string name="node_service_notification_text">Buscando personas cerca sin internet</string>
+    <string name="mesh_notification_action_stop">Apagar</string>
+</resources>
